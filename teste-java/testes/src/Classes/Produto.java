@@ -7,7 +7,7 @@ public class Produto {
     private double preco;
     private int quantidadeEmEstoque;
 
-    //Construtor
+    //Construtor para inicializar os atributos
 
     public Produto(String nome, double preco, int quantidadeEmEstoque) {
         this.nome = nome;
